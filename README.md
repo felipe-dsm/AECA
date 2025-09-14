@@ -7,13 +7,11 @@ Este repositório contém o código-fonte e os resultados do trabalho da 1ª uni
 
 ## Sobre o Projeto
 
-O objetivo deste projeto é implementar um programa em C++ capaz de avaliar empiricamente o tempo de execução de algoritmos de ordenação. A partir dos dados coletados, o comportamento de crescimento de cada algoritmo é comparado com funções assintóticas conhecidas (Big O) para verificar se a análise prática condiz com a teoria.
+O objetivo deste projeto é implementar um programa em C++ capaz de avaliar empiricamente o tempo de execução de algoritmos de ordenação.
 
 Os algoritmos analisados foram:
 * **Insertion Sort** - Complexidade teórica: $O(n^2)$
 * **Merge Sort** - Complexidade teórica: $O(n \log n)$
-
-[cite_start]A metodologia completa, a análise detalhada e as conclusões estão documentadas no relatório em PDF[cite: 1, 2, 8, 13, 14].
 
 ## Estrutura do Projeto
 
