@@ -3,7 +3,7 @@
 ![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B-blue.svg)
 ![Plataforma](https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 
-Este repositório contém o código-fonte e os resultados do trabalho da 1ª unidade da disciplina de Estrutura de Dados Básicas II, do curso de Bacharelado em Tecnologia da Informação (BTI) na Universidade Federal do Rio Grande do Norte (UFRN).
+Este repositório contém o código-fonte do programa utilizado como base para a realização do trabalho da 1ª unidade da disciplina de Estrutura de Dados Básicas II, do curso de Bacharelado em Tecnologia da Informação (BTI) na Universidade Federal do Rio Grande do Norte (UFRN).
 
 ## Sobre o Projeto
 
