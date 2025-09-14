@@ -7,7 +7,7 @@ Este repositório contém o código-fonte do programa utilizado como base para a
 
 ## Sobre o Projeto
 
-O objetivo deste projeto é implementar um programa em C++ capaz de avaliar empiricamente o tempo de execução de algoritmos de ordenação.
+O objetivo deste projeto é implementar um programa em C++ capaz de avaliar empiricamente o tempo de execução de algoritmos.
 
 Os algoritmos analisados foram:
 * **Insertion Sort** - Complexidade teórica: $O(n^2)$
